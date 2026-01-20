@@ -1,1 +1,51 @@
-rafc
+.navbar-bottom{
+    display: flex;
+    height: 70px;
+    background-color:white;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+}
+.nav-items{
+list-style-type: none;
+color: black;
+
+}
+.nav-link{
+    text-decoration: none      ;
+color: black;
+}
+.icon-button{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(230, 90, 48);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    
+}
+.container-field{
+    display: flex;
+    margin-right: 60px;
+    
+
+}
+.container-field ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.nav-link:hover{
+    color: red;
+}
+.heading{
+    position: relative;
+    cursor: pointer;
+    left: 40px;
+    
+}

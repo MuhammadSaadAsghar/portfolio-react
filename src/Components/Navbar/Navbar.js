@@ -15,7 +15,7 @@ const Navbar = () => {
     <span className='email'>rsaad6421@gmail.com</span>
     </li>
     <li>
-    <img src={phone} alt="phone" />
+    <img className='phone-icon' src={phone} alt="phone" />
     <span className='phone'>03161642540</span>
     </li>
 </ul>
@@ -28,7 +28,7 @@ const Navbar = () => {
 </div>
 
 </nav>
-    </div>
+    </div> 
   )
 }
 
