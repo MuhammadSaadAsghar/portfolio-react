@@ -26,7 +26,7 @@ const Services = () => {
         <div className="card">
 <div className="card-content">
   <i class="w fa-brands fa-slack"></i>
-  <h1>Digital Markiting</h1>
+  <h1>Logo Designing</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sed, doloribus minima obcaecati dolore magni?</p>
 
 </div>
@@ -34,7 +34,7 @@ const Services = () => {
         <div className="card">
 <div className="card-content">
   <i class="w fa-brands fa-slack"></i>
-  <h1>Digital Markiting</h1>
+  <h1>Business Consulting</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sed, doloribus minima obcaecati dolore magni?</p>
 
 </div>
@@ -42,7 +42,7 @@ const Services = () => {
         <div className="card">
 <div className="card-content">
   <i class="w fa-brands fa-slack"></i>
-  <h1>Digital Markiting</h1>
+  <h1>Videography</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sed, doloribus minima obcaecati dolore magni?</p>
 
 </div>
@@ -50,7 +50,7 @@ const Services = () => {
         <div className="card">
 <div className="card-content">
   <i class="w fa-brands fa-slack"></i>
-  <h1>Digital Markiting</h1>
+  <h1>Brand Identity</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sed, doloribus minima obcaecati dolore magni?</p>
 
 </div>
@@ -58,7 +58,7 @@ const Services = () => {
         <div className="card">
 <div className="card-content">
   <i class="w fa-brands fa-slack"></i>
-  <h1>Digital Markiting</h1>
+  <h1>Ethical Hacking</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sed, doloribus minima obcaecati dolore magni?</p>
 
 </div>

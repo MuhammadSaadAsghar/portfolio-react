@@ -6,6 +6,11 @@ import Hero from './Components/Header/Header';
 import About from './Components/About/About';
 import Reviews from './Components/About/Reviews';
 import Services from './Components/our services/Services';
+import Project from './Components/Projects/Project';
+import Team from './Components/Team/Team';
+import Reviews2 from './Components/Team/Reviews2';
+import Blog from './Components/Blogs/Blog';
+import Footer from './Components/footer/Footer';
 
 function App() {
   return (
@@ -16,6 +21,12 @@ function App() {
       <About/>
       <Reviews/>
       <Services/>
+      <Project/>
+      <Team/>
+      <Reviews2/>
+      <Blog/>
+      <Footer/>
+
     
     </>
 

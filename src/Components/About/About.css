@@ -15,7 +15,7 @@ background-image: url('../../assets/saad.png');
 background-size: cover;
 background-repeat: no-repeat;
 border-style: none;
-box-shadow: -13px 17px 0px 0px rgb(230, 90, 48);
+box-shadow: -11px 11px 0px 0px rgb(230, 90, 48);
 }
 .abot-content{
     display: flex;

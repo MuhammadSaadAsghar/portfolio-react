@@ -1,0 +1,34 @@
+.Project{
+    height: 600px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.Project-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+.h1-text{
+    font-size: 40px;
+}
+.content-img{
+    height: 300px;
+    width: 450px;
+    border-radius: 5px;
+}
+.Project-image{
+    position: relative;
+    display: flex;
+    gap: 10px;
+    overflow: hidden;
+    padding-top: 30px;
+
+    
+}
+.pro-text{
+    position: absolute;
+    bottom: 20px;
+    color: white;
+    padding-left: 20px;
+}

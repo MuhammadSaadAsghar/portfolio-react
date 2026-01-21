@@ -6,7 +6,7 @@ const navbar = () => {
     <div className='container'>
       <nav className='navbar-bottom'>
         <div className='heading'>
-       <h1>Prixima</h1>
+       <h1>Prixima </h1>
        </div>
        <div className='container-field'>
         <ul>
