@@ -53,3 +53,40 @@ align-items: center;
     width: 100px;
     height: 100px;
 }
+@media (max-width: 600px) {
+
+  .Services {
+    min-width: 100%;
+    padding: 20px 0;
+  }
+
+  .Services-text {
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+
+  .p2-text {
+    width: 90%;
+    font-size: 14px;
+  }
+
+  .cards {
+    flex-direction: column;
+    align-items: center;
+    min-height: auto;
+    width: 95%;
+    gap: 20px;
+  }
+
+  .card-content {
+    width: 90%;
+    max-width: 350px;
+    height: auto;
+    gap: 15px;
+  }
+
+  .card-content i {
+    width: 80px;
+    height: 80px;
+  }
+}

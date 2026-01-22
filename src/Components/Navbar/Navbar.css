@@ -54,7 +54,7 @@ span{
     color: white;
 
 }
-@media (max-width: 768px) {
+@media (max-width: 600px) {
 
   .navbar {
     padding: 0 10px;
