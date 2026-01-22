@@ -28,3 +28,32 @@
 .f-icon{
     color: white;
 }
+@media (max-width: 768px) {
+
+  .Footer {
+    height: auto;
+    padding: 40px 15px;
+  }
+
+  .Footer-text {
+    gap: 12px;
+  }
+
+  .Footer-text h1 {
+    font-size: 22px;
+  }
+
+  .Footer-p1 {
+    font-size: 14px;
+  }
+
+  .footer-link {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .f-icon {
+    font-size: 18px;
+  }
+}

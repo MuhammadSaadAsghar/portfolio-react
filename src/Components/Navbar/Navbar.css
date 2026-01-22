@@ -54,3 +54,31 @@ span{
     color: white;
 
 }
+@media (max-width: 768px) {
+
+  .navbar {
+    padding: 0 10px;
+    height: auto;
+    flex-wrap: wrap;
+  }
+
+  .nav-icon {
+    gap: 10px;
+    font-size: 12px;
+  }
+
+  .nav-icon span {
+    display: none;   /* email / number hide */
+  }
+
+  .social-icon {
+    margin-right: 0;
+    gap: 8px;
+  }
+
+  .social-icon span {
+    width: 26px;
+    height: 26px;
+    font-size: 12px;
+  }
+}

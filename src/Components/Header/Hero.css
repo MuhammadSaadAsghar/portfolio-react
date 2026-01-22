@@ -59,3 +59,35 @@ opacity: 0.5;
     width: 140px;
     border: none;
 }
+@media (max-width: 768px) {
+
+  .Header {
+    height: auto;
+    min-height: 400px;
+    padding: 20px 0;
+  }
+
+  .content {
+    padding-right: 0;
+    padding: 0 15px;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .head-Design {
+    font-size: 32px;
+  }
+
+  .header-button {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  #b-1,
+  #b-two {
+    width: 140px;
+    height: 42px;
+    font-size: 16px;
+  }
+}

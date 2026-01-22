@@ -49,3 +49,35 @@ color: black;
     left: 40px;
     
 }
+@media (max-width: 768px) {
+
+  .navbar-bottom {
+    height: auto;
+    padding: 10px 15px;
+    flex-wrap: wrap;
+  }
+
+  .heading {
+    left: 0;
+    font-size: 22px;
+  }
+
+  .container-field {
+    width: 100%;
+    margin-right: 0;
+    justify-content: center;
+    margin-top: 10px;
+  }
+
+  .container-field ul {
+    flex-direction: column;
+    gap: 12px;
+    font-size: 18px;
+  }
+
+  .icon-button {
+    width: 100%;
+    max-width: 160px;
+    margin-top: 10px;
+  }
+}

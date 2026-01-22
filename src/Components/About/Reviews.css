@@ -31,3 +31,28 @@
     
 
 }
+
+@media (max-width: 768px) {
+
+  .reviews {
+    height: auto;
+  }
+
+  .overlay {
+    padding: 30px 15px;
+  }
+
+  .rev-text {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .head-text h1 {
+    font-size: 32px;
+  }
+
+  .head-text p {
+    font-size: 14px;
+  }
+}
